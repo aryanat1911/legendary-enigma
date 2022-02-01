@@ -117,6 +117,10 @@
   .slider_section .slider_bg_box img {
     object-position: 40% center;
   }
+
+  .slider_section .slider_bg{
+    background: linear-gradient(60deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 90%);
+  }
 }
 
 @media (max-width: 420px) {
